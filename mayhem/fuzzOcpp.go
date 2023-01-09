@@ -1,4 +1,4 @@
-package fuzz
+package fuzzOcpp
 
 import "strconv"
 import "github.com/lorenzodonini/ocpp-go/ocpp2.0.1/types"
